@@ -5,3 +5,5 @@ This was my third task as a Computer Vision & IoT intern at The Sparks Foundatio
 Code files can also be found at: https://drive.google.com/drive/folders/1bAEfWklqKc0WzXHGHTh_ZBQJBB_ytH__?usp=sharing
 
 A video demonstration of this project can be seen at: https://www.youtube.com/watch?v=iJt2LRFfVOI
+
+Let me know of your thoughts or any questions regarding this task.
